@@ -1,3 +1,5 @@
+Online Retail Store Analysis
+
 This is a SQL research project, where we will complete our project in 4 steps . 
 We start by searching for suitable datasets from various sources to support our research goals. 
 Once we have the datasets, we create our own problem statement to focus our investigation. 
